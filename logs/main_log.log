@@ -1,0 +1,100 @@
+2023-11-24 11:07:16,656 - root - WARNING - [main.py:10] - Inicio del proceso.
+2023-11-24 11:07:16,656 - root - WARNING - [main.py:16] - Fin del proceso.
+2023-11-24 11:07:57,266 - root - WARNING - [main.py:10] - Inicio del proceso.
+2023-11-24 11:07:57,266 - root - WARNING - [main.py:16] - Fin del proceso.
+2023-11-24 11:10:02,669 - root - INFO - [main.py:11] - Severidad configurada: INFO
+2023-11-24 11:10:02,669 - root - WARNING - [main.py:12] - Inicio del proceso.
+2023-11-24 11:10:02,669 - root - WARNING - [main.py:18] - Fin del proceso.
+2023-11-24 11:11:29,207 - root - ERROR - [main.py:18] - Error encontrado!!!
+2023-11-24 11:11:39,411 - root - ERROR - [main.py:18] - Error encontrado!!!
+2023-11-24 11:11:45,450 - root - INFO - [main.py:11] - Severidad configurada: INFO
+2023-11-24 11:11:45,452 - root - WARNING - [main.py:12] - Inicio del proceso.
+2023-11-24 11:11:45,452 - root - ERROR - [main.py:18] - Error encontrado!!!
+2023-11-24 11:11:45,452 - root - WARNING - [main.py:19] - Fin del proceso.
+2023-11-24 11:11:59,406 - root - INFO - [main.py:11] - Severidad configurada: DEBUG
+2023-11-24 11:11:59,406 - root - WARNING - [main.py:12] - Inicio del proceso.
+2023-11-24 11:11:59,406 - root - ERROR - [main.py:18] - Error encontrado!!!
+2023-11-24 11:11:59,406 - root - WARNING - [main.py:19] - Fin del proceso.
+2023-11-24 11:12:13,259 - root - WARNING - [main.py:12] - Inicio del proceso.
+2023-11-24 11:12:13,259 - root - ERROR - [main.py:18] - Error encontrado!!!
+2023-11-24 11:12:13,259 - root - WARNING - [main.py:19] - Fin del proceso.
+2023-11-24 11:12:23,074 - root - INFO - [main.py:11] - Severidad configurada: DEBUG
+2023-11-24 11:12:23,074 - root - WARNING - [main.py:12] - Inicio del proceso.
+2023-11-24 11:12:23,074 - root - ERROR - [main.py:18] - Error encontrado!!!
+2023-11-24 11:12:23,074 - root - WARNING - [main.py:19] - Fin del proceso.
+2023-11-24 11:13:13,622 - root - WARNING - [main.py:12] - Inicio del proceso.
+2023-11-24 11:13:13,622 - root - ERROR - [main.py:18] - Error encontrado!!!
+2023-11-24 11:13:13,623 - root - CRITICAL - [main.py:19] - Error CRITICO encontrado!!!
+2023-11-24 11:13:13,623 - root - WARNING - [main.py:20] - Fin del proceso.
+2023-11-24 11:13:20,667 - root - WARNING - [main.py:12] - Inicio del proceso.
+2023-11-24 11:13:20,667 - root - ERROR - [main.py:18] - Error encontrado!!!
+2023-11-24 11:13:20,668 - root - CRITICAL - [main.py:19] - Error CRITICO encontrado!!!
+2023-11-24 11:13:20,668 - root - WARNING - [main.py:20] - Fin del proceso.
+2023-11-24 11:13:40,532 - root - INFO - [main.py:11] - Severidad configurada: DEBUG
+2023-11-24 11:13:40,533 - root - WARNING - [main.py:12] - Inicio del proceso.
+2023-11-24 11:13:40,533 - root - ERROR - [main.py:18] - Error encontrado!!!
+2023-11-24 11:13:40,533 - root - CRITICAL - [main.py:19] - Error CRITICO encontrado!!!
+2023-11-24 11:13:40,533 - root - WARNING - [main.py:20] - Fin del proceso.
+2023-11-24 11:13:50,608 - root - INFO - [main.py:11] - Severidad configurada: DEBUG
+2023-11-24 11:13:50,608 - root - WARNING - [main.py:12] - Inicio del proceso.
+2023-11-24 11:13:50,609 - root - ERROR - [main.py:18] - Error encontrado!!!
+2023-11-24 11:13:50,609 - root - CRITICAL - [main.py:19] - Error CRITICO encontrado!!!
+2023-11-24 11:13:50,609 - root - WARNING - [main.py:20] - Fin del proceso.
+2023-11-24 11:14:35,288 - root - INFO - [main.py:11] - Severidad configurada: DEBUG
+2023-11-24 11:14:35,288 - root - INFO - [main.py:12] - Inicio del proceso.
+2023-11-24 11:14:35,289 - root - WARNING - [main.py:13] - Algo anda mal !!!
+2023-11-24 11:14:35,289 - root - ERROR - [main.py:19] - Error encontrado!!!
+2023-11-24 11:14:35,289 - root - CRITICAL - [main.py:20] - Error CRITICO encontrado!!!
+2023-11-24 11:14:35,289 - root - INFO - [main.py:21] - Fin del proceso.
+2023-11-24 11:14:39,580 - root - INFO - [main.py:11] - Severidad configurada: DEBUG
+2023-11-24 11:14:39,581 - root - INFO - [main.py:12] - Inicio del proceso.
+2023-11-24 11:14:39,581 - root - WARNING - [main.py:13] - Algo anda mal !!!
+2023-11-24 11:14:39,581 - root - ERROR - [main.py:19] - Error encontrado!!!
+2023-11-24 11:14:39,581 - root - CRITICAL - [main.py:20] - Error CRITICO encontrado!!!
+2023-11-24 11:14:39,581 - root - INFO - [main.py:21] - Fin del proceso.
+2023-11-24 11:15:14,950 - root - INFO - [main.py:11] - Severidad configurada: INFO
+2023-11-24 11:15:14,950 - root - INFO - [main.py:12] - Inicio del proceso.
+2023-11-24 11:15:14,951 - root - WARNING - [main.py:13] - Algo anda mal !!!
+2023-11-24 11:15:14,951 - root - ERROR - [main.py:19] - Error encontrado!!!
+2023-11-24 11:15:14,951 - root - CRITICAL - [main.py:20] - Error CRITICO encontrado!!!
+2023-11-24 11:15:14,951 - root - INFO - [main.py:21] - Fin del proceso.
+2023-11-24 11:15:47,931 - root - WARNING - [main.py:13] - Algo anda mal !!!
+2023-11-24 11:15:47,931 - root - ERROR - [main.py:19] - Error encontrado!!!
+2023-11-24 11:15:47,931 - root - CRITICAL - [main.py:20] - Error CRITICO encontrado!!!
+2023-11-24 11:15:50,766 - root - WARNING - [main.py:13] - Algo anda mal !!!
+2023-11-24 11:15:50,766 - root - ERROR - [main.py:19] - Error encontrado!!!
+2023-11-24 11:15:50,766 - root - CRITICAL - [main.py:20] - Error CRITICO encontrado!!!
+2023-11-24 11:16:02,114 - root - WARNING - [main.py:13] - Algo anda mal !!!
+2023-11-24 11:16:02,115 - root - ERROR - [main.py:19] - Error encontrado!!!
+2023-11-24 11:16:02,115 - root - CRITICAL - [main.py:20] - Error CRITICO encontrado!!!
+2023-11-24 11:16:15,471 - root - WARNING - [main.py:13] - Algo anda mal !!!
+2023-11-24 11:16:15,472 - root - ERROR - [main.py:19] - Error encontrado!!!
+2023-11-24 11:16:15,472 - root - CRITICAL - [main.py:20] - Error CRITICO encontrado!!!
+2023-11-24 11:16:25,791 - root - INFO - [main.py:11] - Severidad configurada: INFO
+2023-11-24 11:16:25,791 - root - INFO - [main.py:12] - Inicio del proceso.
+2023-11-24 11:16:25,791 - root - WARNING - [main.py:13] - Algo anda mal !!!
+2023-11-24 11:16:25,791 - root - ERROR - [main.py:19] - Error encontrado!!!
+2023-11-24 11:16:25,791 - root - CRITICAL - [main.py:20] - Error CRITICO encontrado!!!
+2023-11-24 11:16:25,792 - root - INFO - [main.py:21] - Fin del proceso.
+2023-11-24 11:18:23,720 - root - INFO - [main.py:11] - Severidad configurada: INFO
+2023-11-24 11:18:23,721 - root - INFO - [main.py:12] - Inicio del proceso.
+2023-11-24 11:18:23,721 - root - WARNING - [main.py:13] - Algo anda mal !!!
+2023-11-24 11:18:23,721 - root - WARNING - [parametros.py:15] - Cargando parametros, ambiente 0.
+2023-11-24 11:18:23,727 - root - INFO - [peticion.py:19] - Ejecutando peticion ...
+2023-11-24 11:18:24,928 - root - CRITICAL - [peticion.py:45] - Peticion NO finalizo correctamente, codigo de respuesta http 404.
+2023-11-24 11:18:24,928 - root - ERROR - [peticion.py:46] - Detalle del error : {"message":"Not Found"}
+2023-11-24 11:18:24,930 - root - WARNING - [main.py:15] - Respuesta de peticion: 
+2023-11-24 11:18:24,930 - root - ERROR - [main.py:16] - Error encontrado!!!
+2023-11-24 11:18:24,932 - root - CRITICAL - [main.py:17] - Error CRITICO encontrado!!!
+2023-11-24 11:18:24,932 - root - INFO - [main.py:18] - Fin del proceso.
+2023-11-24 11:20:34,814 - root - WARNING - [main.py:13] - Algo anda mal !!!
+2023-11-24 11:20:34,814 - root - WARNING - [parametros.py:15] - Cargando parametros, ambiente 0.
+2023-11-24 11:20:36,057 - root - CRITICAL - [peticion.py:45] - Peticion NO finalizo correctamente, codigo de respuesta http 404.
+2023-11-24 11:20:36,058 - root - ERROR - [peticion.py:46] - Detalle del error : {"message":"Not Found"}
+2023-11-24 11:20:36,061 - root - WARNING - [main.py:15] - Respuesta de peticion: 
+2023-11-24 11:20:36,061 - root - ERROR - [main.py:16] - Error encontrado!!!
+2023-11-24 11:20:36,062 - root - CRITICAL - [main.py:17] - Error CRITICO encontrado!!!
+2023-11-24 11:22:13,023 - root - CRITICAL - [peticion.py:45] - Peticion NO finalizo correctamente, codigo de respuesta http 404.
+2023-11-24 11:22:13,024 - root - ERROR - [peticion.py:46] - Detalle del error : {"message":"Not Found"}
+2023-11-24 11:22:13,025 - root - ERROR - [main.py:16] - Error encontrado!!!
+2023-11-24 11:22:13,025 - root - CRITICAL - [main.py:17] - Error CRITICO encontrado!!!
